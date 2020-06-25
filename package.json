@@ -1,0 +1,19 @@
+{
+  "name": "node-hash",
+  "version": "1.0.0",
+  "description": "Hash strings using node",
+  "main": "toHash.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielyoto/node-hash.git"
+  },
+  "keywords": [
+    "node",
+    "hash"
+  ],
+  "author": "Gabriel Freitas Yamamoto",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
